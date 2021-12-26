@@ -1,0 +1,307 @@
+id,vin,price,miles,stock_no,year,make,model,trim,body_type,vehicle_type,drivetrain,transmission,fuel_type,engine_size,engine_block,seller_name,street,city,state,zip
+52c860f2-62f0,2B3CJ5DT5BH541198,24598,52934,M13696P,2011,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,hendrick chevrolet cary,100 Auto Mall Drive,Cary,NC,27511
+864e1d5d-a74e,2C3CDZBT8JH182948,36450,15422,1268851,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,deery brothers gm,200 S. Gear Avenue,West Burlington,IA,52655
+674c8286-c021,2C3CDZBT0KH606382,29873,34188,14903A,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hennessy honda of woodstock,8931 Highway 92,Woodstock,GA,30189
+b4966e26-becf,2C3CDZBT2LH134977,39995,2482,P5451,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,zeigler chrysler dodge jeep ram of plainwell,1186 East M-89,Plainwell,MI,49080
+4a98ccc5-4404,2C3CDZAT6FH873565,27991,36858,FH873565,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,mini of clear lake,300 Gulf Fwy S,League City,TX,77573
+4e38bd2b-aa50,2B3CJ5DT8AH184419,17999,48610,11705,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,nationwide auto group,917 Highway 130,East Windsor,NJ,08520
+c29a2461-77fb,2C3CDZBT2LH134977,39995,2482,P5451,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,zeigler fiat of grandville,4200 Parkway Pl Sw,Grandville,MI,49418
+2b0488f4-67c6,2C3CDZBT5HH604796,,36106,D9039A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,sunset motors incorp,2218 Sunset Blvd.,Steubenville,OH,43952
+42a4dafc-5b83,2C3CDZBT3JH255482,31989,20938,6193P,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,westgate kia,10956 Star Rd,Wake Forest,NC,27587
+62777753-3bd7,2C3CDZBTXKH541332,32981,23810,A300B,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,crossroads infiniti of apex,1900 Laura Duncan Rd,Apex,NC,27523
+52f937fc-b4e7,2C3CDYBT1DH646872,25000,51609,646872,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,dutch's ford,745 Indian Mound Drive-on The Bypass,Mount Sterling,KY,40353
+debc76f3-6b33,2C3CDZBT5KH583519,34495,14306,KH583519,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,autonation chevrolet south corpus christi,6650 S. Padre Island Drive,Corpus Christi,TX,78412
+e29eb2a4-4a2f,2C3CDZBT6FH703785,27848,58527,SJ210895-1,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,bmw of el cajon,720 El Cajon Blvd,El Cajon,CA,92020
+ff150009-ae36,2C3CDZBTXKH583158,,47438,25111,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,quantum auto sales - escondido,728 N. Escondido Blvd,Escondido,CA,92025
+6093edd3-32ce,2C3CDZAT6FH873565,27991,36858,FH873565,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,advantage bmw of clear lake,400 Gulf Fwy S,League City,TX,77573
+101f331c-9fad,2C3CDZBT9HH542674,33962,26529,MW678584A,2017,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,gill automotive group,2266 Kitty Hawk Road,Livermore,CA,94551
+73ecdeb7-0bcc,2C3CDZBT0KH708457,32993,24167,W129942A,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hennessy automobile companies,3393 Old Norcross Road Northwest,Duluth,GA,30096
+3678d8e7-5c68,2C3CDZBT7JH310595,,23369,729099A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,champion chrysler jeep dodge ram fiat,9655 Firestone Blvd,Downey,CA,90241
+6270643e-fb27,2C3CDZBT0KH606432,30990,20999,P3567,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,dutro nissan,131 South 5th St,Zanesville,OH,43701
+4c4ae69b-e703,2C3CDYBTXEH276989,29933,33348,DLF210919A,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,buffalo cars,,Buffalo,NY,14201
+d12daf1a-dd31,2C3CDYBT8DH535865,,115548,51T8486A,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,jeff wyler chrysler jeep dodge of lawrenceburg,875 E Eads Pkwy,Lawrenceburg,IN,47025
+ea1ea318-666c,2C3CDZBT3HH519178,26995,48726,L9154,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,action auto utah,170 West State Road,Lehi,UT,84043
+9c1f0b89-ab2b,2C3CDYBT4EH139921,29065,40295,EH139921,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,faulkner chrysler dodge jeep ram fiat,6643 Carlisle Pike,Mechanicsburg,PA,17050
+ae571817-7ca6,2C3CDYBT8DH741901,24995,41485,2021984B,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,asheville ford,611 Brevard Rd.,Asheville,NC,28806
+af5becfd-e7c0,2C3CDZAT8FH737065,31777,10879,,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,stg auto group of bellflower,8625 Artesia Boulevard,Bellflower,CA,90706
+40abc88b-2d60,2C3CDZBTXJH131127,30138,62819,JH131127,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,vaden automotive,9393 Abercorn Street,Savannah,GA,31406
+ab8d01f4-fe64,2C3CDZBT1JH333788,33524,38282,JH333788,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,nyle maxwell alfa romeo,13049researchboulevard,Austin,TX,78750
+1fd3313d-601b,2C3CDZBT5HH554434,33887,14393,PP1224A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,herrnstein chrysler dodge jeep ram fiat,133 Marietta Road,Chillicothe,OH,45601
+c00670e5-b945,2C3CDYBTXEH153080,25999,70161,PV3575,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,hendrick volvo cars of charleston,1464 Savannah Highway,Charleston,SC,29407
+e0cd3840-16b0,2C3CDYBTXEH153080,25999,70161,PV3575,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,hendrick bmw,6950 E Independence Blvd,Charlotte,NC,28227
+c411414e-b08a,2C3CDZBT2JH333220,32500,2301,A20T1227,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,academy cdjr,6002 W. Field Dr,Tipton,IN,46072
+842cb881-3daa,2C3CDZBTXKH596458,34995,679,190208,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,milford chrysler sales inc,500 Routes 6 209,Milford,PA,18337
+4795a8cd-8136,2C3CDZBTXHH514611,31871,43001,AU27784,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,action nissan,307 Thompson Lane,Nashville,TN,37211
+48df1049-7e8a,2C3CDYBT8EH294598,,44336,5800P,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,thurston toyota,2800 North State Street,Ukiah,CA,95482
+c611fe1f-32d4,2C3CDZBT1JH259885,32590,7339,2000929234,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,carvana kansas city,2183 Hebron Rd,Heath,OH,43056
+4a982280-1d5a,2C3CDZBTXJH219515,36991,18813,M31239A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,hendrick motors of charlotte,5201 E. Independence Blvd,Charlotte,NC,28212
+c94bf632-3439,2C3CDYBT3EH236088,21995,94719,EH236088A,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,toyota direct,4248 Morse Rd,Columbus,OH,43230
+e9eb2de1-481f,2C3CDZAT5FH788328,,43809,1206326B,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,haley automall,1906 S Main Street,Farmville,VA,23901
+851e3059-e1b4,2C3CDZBTXJH219515,36991,18813,M31239A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,rick hendrick chevrolet,1500 Savannah Hwy,Charleston,SC,29407
+5d392f21-1c11,2C3CDZBT8KH750374,33493,16116,KH750374,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,fayetteville kia,2012 Skibo Rd,Fayetteville,NC,28314
+151a7e39-aebb,2C3CDZBT3FH719247,29371,47386,J57501,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,dealin doug dealerships,2000 W 104th Ave,Denver,CO,80234
+8472d049-4c1c,2C3CDZBT6JH146496,38000,16708,JH146496,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,tacoma nissan,4030 S Tacoma Way,Tacoma,WA,98409
+30ab8bdb-9dce,2C3CDZBT2HH611396,32981,31594,3012194P,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,john elway's claremont chrysler dodge jeep ram,620 Auto Center Dr,Claremont,CA,91711
+a6940bac-4449,2C3CDZBT8JH228195,33992,20301,PJ1683,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,ron tonkin chevrolet,122 Ne 122nd Ave,Portland,OR,97230
+00253867-66bb,2B3CJ5DT0AH120939,15912,,9843P,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,patterson chrysler dodge jeep ram- tyler,3120 South Southwest Loop 323,Tyler,TX,75701
+c58f477e-df8b,2C3CDZBT5LH139090,,19813,1089,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,champion auto hillside,22 Doremus Pl,Hillside,NJ,07205
+1d51e963-0478,2C3CDZBT1LH138499,,10942,1153,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,champion auto hillside,22 Doremus Pl,Hillside,NJ,07205
+e226e6aa-7577,2C3CDYBT3CH173927,,88035,ID 3541858,2012,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,jp motors llc,1305 W. Highway 83,Pharr,TX,78577
+13b907aa-a46a,2C3CDZBT2JH270815,29495,39060,215540A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,libertyville chevrolet,1001 S Milwaukee Ave,Libertyville,IL,60048
+edb4c594-e143,2C3CDYBT2EH313324,26995,39665,P29454,2014,Dodge,Challenger,R/T Classic,Coupe,Car,RWD,Manual,Unleaded,5.7,V,hyman bros. mazda,12602 Jefferson Avenue,Newport News,VA,23602
+a2b93b02-cad5,2C3CDZBTXHH648860,28500,61810,2105353A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,al serra chrysler dodge jeep ram,6185 S Saginaw Rd,Grand Blanc,MI,48439
+7341a102-a045,2C3CDZBT4LH124631,35560,22563,QP01187,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,kunes country hyundai of quincy,207 N 36th Street,Quincy,IL,62301
+db24d1aa-1c83,2C3CDZBT0LH142690,35998,29404,P3953,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,honda of concord,7650 Bruton Smith Blvd,Concord,NC,28027
+6138c3ee-4181,2C3CDZBTXKH747749,39586,19943,C749,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,gillie hyde ford lincoln inc.,610 Happy Valley Road,Glasgow,KY,42141
+3f21962e-f846,2C3CDZAT5FH788328,29488,43809,1206326B,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,haley toyota of roanoke,1530 Courtland Rd Ne,Roanoke,VA,24012
+d7ac647c-abc0,2C3CDZBT1KH661519,40800,8606,C21W1276,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,stew hansen chrysler dodge jeep ram fiat,12103 Hickman Rd.,Urbandale,IA,50323
+2cfea5ce-9355,2C3CDZBT1JH218558,40998,16681,S44218A,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,herb chambers honda in boston,720 Morrissey Boulevard,Boston,MA,02122
+d2bccb56-8d3c,2B3CJ5DT7AH281823,,84385,281823,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,top shelf automotives inc,1349 Laurel Street,San Carlos,CA,94070
+dcae879a-5761,2C3CDZBT0GH157745,29890,47958,CT21065B,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,team chevrolet of swansboro,1435 W Corbett Ave,Swansboro,NC,28584
+3e0fa60d-0456,2C3CDZBT5JH259923,37300,29541,81875A,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,wally armour chrysler dodge jeep ram,1950 West State St,Alliance,OH,44601
+0c55429b-71eb,2C3CDZBT0JH318117,32999,16662,AH318117,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,mike bock powered by auto house,1941 E 3rd St.,Tempe,AZ,85281
+508aaf69-e81a,2C3CDZBT9KH739853,40995,2369,8810P,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,crystal ford,2440 Nw Highway 19,Crystal River,FL,34428
+73cbd5d8-2d47,2C3CDZAT0FH713259,24997,107056,C121855A,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,serra chevrolet,1170 Center Point Parkway,Birmingham,AL,35215
+ae49132c-3adc,2C3CDZBT3LH152548,43350,1171,D557666A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,fitzgerald cadillac of annapolis,34 Hudson St,Annapolis,MD,21401
+f2662b9f-4177,2C3CDYBT1DH541782,23875,76323,13058,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,corona motors,1502 West Holt Blvd.,West Roxbury,MA,02132
+135b0799-2d87,2B3CJ5DT8AH179950,64995,4535,PM552A,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,ferrari of palm beach,3974 Okeechobee Blvd,West Palm Beach,FL,33409
+8b02950b-614f,2C3CDZBT8LH125216,35988,37573,P6389,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,thomasville ford,1515 East Jackson Street,Thomasville,GA,31792
+2ef9b556-6630,2C3CDYBT5DH652089,,102557,0704,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,juniors auto group,9971 Alameda Avenue,El Paso,TX,79927
+22412e44-0c9f,2C3CDYBT9EH164653,23500,83900,HWHM35454A,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,checkered flag porsche,2865 Virginia Beach Blvd,Virginia Beach,VA,23452
+99f9089f-cfaa,2C3CDZBT2HH656368,36000,15379,R5019A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,preferred auto dealerships,810 Robbins Rd,Grand Haven,MI,49417
+747921ce-915f,2C3CDZAT7FH715025,27000,64195,DM53707B,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,hendrick honda of easley,4609 Calhoun Memorial Hwy,Easley,SC,29640
+449ffdf8-d32c,2C3CDZBT3JH146570,34997,15867,BJH146570,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,volkswagen of fort myers,14060 S Tamiami Trl,Fort Myers,FL,33912
+304f7648-79e2,2B3LJ54T49H510308,24998,31071,PU02240T,2009,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,dick hannah nissan,19505 Mcloughlin Blvd.,Bechtelsville,PA,19505
+f448ec06-4a05,2C3CDZBTXHH531361,27995,55726,60131A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,garlyn shelton nissan,5620 S. General Bruce Dr.,Temple,TX,76502
+cebe57d3-673f,2C3CDZBTXKH674995,32699,18912,P14018,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,rocky mount chrysler dodge jeep ram fiat,1340 S Wesleyan Blvd,Rocky Mount,NC,27803
+14d14a84-4c25,2C3CDZBT5HH509087,33995,13281,HH509087,2017,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,aloha motors,1303 Ocean St,Santa Cruz,CA,95060
+96009cb1-f9b6,2C3CDZBT5HH610596,31500,28856,FP278,2017,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,haley toyota of farmville,1906 S. Main Street,Farmville,VA,23901
+1f3bb7da-000d,2C3CDZBT7HH568335,32504,29090,U568335,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,alfa romeo of fort worth,400 West Loop 820 South,Fort Worth,TX,76108
+11b1d47a-0cbb,2C3CDZBT8KH750374,33493,16116,,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,stone mountain toyota,4400 Stone Mountain Hwy,Lilburn,GA,30047
+26e86ec1-3228,2C3CDZAT7FH715025,,64195,DM53707B,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,rick hendrick cadillac norfolk,6222 East Virginia Beach Blvd.,Norfolk,VA,23502
+0bb505aa-2763,2C3CDZBT8JH132020,,28193,UA57602,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,all star hyundai,3950 Century Court,Pittsburg,CA,94565
+b4b33c50-2c83,2C3CDZBT2GH250637,35000,12307,M21020A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,carfare summerville,200 Old Trolley Road,Summerville,SC,29485
+93e65c5f-e789,2C3CDZBT8JH260192,36921,42974,2368,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,tom dinsdale chrysler dodge jeep ram,2800 Osborne Drive East,Hastings,NE,68901
+b63984d6-1d85,2B3CJ5DT4AH278202,20782,58604,M328381A,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,o'brien hyundai of fort myers,2850 Colonial Blvd,Fort Myers,FL,33966
+315169b8-5d67,2C3CDZBT8JH260144,39900,5451,B6206,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hancock county chrysler dodge jeep ram,845 Washington Street,Newell,WV,26050
+f73c527f-65b1,2C3CDZBT6KH551047,28522,11473,HP11557,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,kia optima miami,16600 Nw 57th Ave.,Miami,FL,33014
+1a13a3ab-83e6,2C3CDZBT7LH118614,31500,32290,PCD4148,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,grieco automotive group,2850 S Federal Hwy,Delray Beach,FL,33444
+90008a85-4a20,2B3CJ5DT6AH141150,,86533,12255A,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,twin city toyota,301 Autumn Ridge Drive,Herculaneum,MO,63048
+3575b6f5-729e,2C3CDZBT9KH573737,23950,42671,T573737,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,26 motors corp,4015 Boston Road,Bronx,NY,10466
+34ad0c79-d9ee,2C3CDZBT7GH120482,30937,46492,GH12048A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,lester glenn auto group,386 New Jersey 37 A,Toms River,NJ,08753
+ae40c50f-e74a,2C3CDZBT6JH182575,25196,88162,H210224A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,tameron honda,1675 Montgomery Highway,Birmingham,AL,35216
+1fec42be-e2e1,2C3CDZBT8JH182948,38043,15422,1268851,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,deery brothers toyota,200 South Gear Avenue,West Burlington,IA,52655
+4f4ca3a7-df9a,2C3CDZBT1HH633888,,39305,202249P,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,edd kirby's adventure chevrolet,1501 W Walnut Avenue,Dalton,GA,30720
+f990ae1a-0f0e,2C3CDZBT1GH195730,29897,36000,DTJ10315A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,mcgonigal buick gmc,2828 E Markland Ave,Kokomo,IN,46901
+5d7049cd-628b,2C3CDZBT9KH629417,33992,25447,KH629417,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,sterling mccall nissan,12230 Southwest Fwy,Stafford,TX,77477
+a5056db3-cbba,2C3CDZBT0JH199663,37997,18299,P0988W,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,darcars used car & service center of frederick,1040 W. Patrick St,Frederick,MD,21701
+3b2b0e3b-a8c4,2C3CDZBT6HH568262,31900,32185,HH568262,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,genesis of lexington,3340 Richmond Road,Lexington,KY,40509
+94a999b7-4f15,2C3CDZBT0LH142690,35998,29404,P3953,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,audi northlake,10831 Northlake Auto Plaza Blvd,Charlotte,NC,28269
+a3708201-68be,2C3CDZBT4JH259881,38998,2494,H6140,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hawk subaru,2401 S Rt 59,Plainfield,IL,60586
+18c2021d-a1e3,2C3CDZBT1KH612482,40990,23432,PC7254,2019,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,bay cars,622 636 641 W 15th St,Panama City,FL,32401
+2925abc6-2ed6,2B3LJ54T89H600917,,,11807Z,2009,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,holiday chrysler dodge jeep,815 S Rolling Meadows Dr,Fond Du Lac,WI,54937
+aa0231bb-de86,2C3CDZBT2KH512259,33900,22711,437812A,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,safford automotive group,5208 Jefferson Davis Hwy,Fredericksburg,VA,22408
+7cfc8510-d59f,2C3CDYBT5EH225528,23765,57868,XR5819A,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,rick hendrick chevrolet norfolk,6252 E. Virginia Beach Blvd,Norfolk,VA,23502
+c888be5b-4b22,2C3CDZBT4JH270959,36230,3349,P2398,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,paradise auto & truck center,1001 North Lake Havasu Avenue,Havasu City,AZ,86403
+e0145c26-4f32,2C3CDZBT0HH578396,32995,42916,D22060A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,bert ogden mazda edinburg,4221 South Highway 281,Edinburg,TX,78539
+ff8371a7-9ee9,2B3CJ5DT0BH613098,22779,39876,11994P,2011,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,westgate chrysler dodge jeep ram of burgaw,1374 Highway 117 S,Burgaw,NC,28425
+0be74010-9fb5,2C3CDZBTXGH232399,26960,85595,P127983A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,hertrich chevrolet of dover,1450 S Dupont Hwy,Dover,DE,19901
+ee4979d1-83d1,2C3CDZBT3LH152548,43350,1171,D557666A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,fitzgerald subaru,11411 Rockville Pike,Rockville,MD,20852
+b069b03a-15a9,2C3CDZBT7LH242740,41995,3527,1U5018A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,darcars pre-owned fairfax,10620 Fairfax Blvd,Fairfax,VA,22030
+5c80aebe-9520,2C3CDZBT5JH131391,,49700,MP4484A,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,carizona,1600 W. Main St.,Chandler,AZ,85225
+1b7049f8-d101,2C3CDZBT9JH287529,30421,30234,JH287529,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,lithia vip,150 N. Bartlett St.,Medford,OR,97501
+1c916ff7-1739,2C3CDZBTXKH513370,29500,43302,10428B,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,"tate dodge chrysler jeep, inc.",7429 Ritchie Hwy,Glen Burnie,MD,21061
+d946d97f-2932,2B3LJ54TX9H623700,16791,69377,623700,2009,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,columbia motors,10820 Se Division St,Portland,OR,97266
+59640317-22ff,2C3CDYBT3EH149811,24000,38935,R210268A,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,courtesy jeep of superstition springs,6428 E Test Dr,Mesa,AZ,85206
+bf33d5c8-32b1,2C3CDZBT9HH640605,35605,11507,HH640605PL,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,lithia auto stores,150 North Bartlett,Medford,OR,97501
+b747d7a7-0c4f,2C3CDZBT4HH536166,,15352,H536166D,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,moore chrysler dodge jeep ram,1305 Highway 96 Byp,Silsbee,TX,77656
+2d6bda1b-dcd2,2C3CDZBT3KH550728,33500,28006,PJ6395,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,albany chrysler dodge jeep ram,701 E. Oglethorpe Blvd,Albany,GA,31705
+2f16ecf7-fe65,2C3CDZBT6HH604774,,20488,DPS14691,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,progressive chevrolet company,8000 Hills Dales Rd Nw,Massillon,OH,44648
+57275abe-4d23,2C3CDZBT8JH332718,36706,21264,J210487A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,chapman mazda sales,6744 Black Horse Pike,Egg Harbor Township,NJ,08234
+e0c0ae14-d1f6,2C3CDZBT1JH144817,36748,34052,10504,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,motor city la,1111 N University Avenue,Lafayette,LA,70506
+b88448ed-420b,2C3CDYBT5EH225528,23765,57868,XR5819A,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,dale earnhardt jr cadillac,1850 Capital Circle Ne,Tallahassee,FL,32308
+a784b102-e8a5,2C3CDZBT0LH142690,35998,29404,P3953,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,bmw of kansas city south,1200 W. 104th St,Kansas City,MO,64114
+d635af1f-d85c,2C3CDZBTXFH701716,25971,109029,B3093,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,clement olympic motors,1790 North Highway 67,Florissant,MO,63033
+5a6dc975-4289,2C3CDYBT8EH242100,21995,86588,18476-69,2014,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Manual,Unleaded,5.7,V,siamak's car company,2908 Market Street Northeast,Salem,OR,97301
+695b1f56-a4d7,2C3CDZBT3HH532268,33997,17296,175014A,2017,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,galeana's van dyke dodge,28400 Van Dyke Avenue,Warren,MI,48093
+c0d8a9fe-320b,2C3CDZBT4FH714820,26988,45332,S10596P,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,south coast mitsubishi,2480 Harbor Blvd,Costa Mesa,CA,92626
+f0625779-b36d,2C3CDZBT0KH708507,37990,21829,F210139,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,rick ridings ford,1817 Ridings Drive,Monticello,IL,61856
+7a6ed222-f9ac,2C3CDZBT2GH255918,28998,28123,7000705,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,sanford imports,1301 Douglas Dr,Sanford,NC,27330
+12a4b29d-08a4,2C3CDZAT4FH719761,25141,71126,HSFH719761,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,jaguar livermore,3500 Las Positas Rd,Livermore,CA,94551
+f28ce607-745f,2C3CDZBT1LH125221,31097,31858,2C3CDZBT1LH125221,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,avis car sales,1600 East Airport Freeway,Irving,TX,75062
+f8b36ea1-54af,2C3CDZBT2KH751407,34999,13664,DV11448,2019,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,clay cooley auto group,1251 East Airport Freeway,Irving,TX,75062
+f3c1a3e7-f233,2C3CDZBT3JH333503,36272,17470,F1168A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,brian toliver lincoln,1040 Gilmer Street,Sulphur Springs,TX,75482
+d9afd987-9c28,2C3CDYBT8EH100569,25490,46912,14405Y,2014,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Manual,Unleaded,5.7,V,classic ford lincoln shelby,1775 East Dixon Boulevard,Shelby,NC,28152
+a99bc242-ae27,2C3CDZBT1JH130836,29000,64742,M7173,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,paramount kia of asheville,1000 Ridgefield Blvd,Asheville,NC,28806
+201e784c-ff0a,2C3CDZBTXHH567972,36295,4710,CP4274,2017,Dodge,Challenger,T/A,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,andy mohr speedway chevrolet,5252 W 38th St,Indianapolis,IN,46254
+d9c022c1-c1d6,2C3CDYBT0EH284308,24995,91977,1217TS,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,sonora chrysler dodge jeep ram,13411 Mono Way,Sonora,CA,95370
+4eaf7f25-f648,2C3CDZBT0GH226224,32550,21266,H082169B,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,genesis of rockville,11411 Rockville Pike,Rockville,MD,20852
+62169d86-8300,2C3CDZBTXKH538995,31890,39824,55367P,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,westgate chrysler jeep dodge ram,6421 Old Westgate Rd,Raleigh,NC,27617
+8fb4aa5a-ce83,2C3CDZBT2GH213992,,47303,21457302,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,craig zinn automotive group,1850 North State Road 7,Hollywood,FL,33021
+4f807813-0556,2C3CDZBT9JH270617,27825,54331,44A01526,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,cookeville honda,560 Neal St,Cookeville,TN,38501
+822842a6-bcd2,2C3CDZBT5JH161510,33119,47513,C673956B,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,toyota of cool springs,1875 West Mcewen Drive,Franklin,TN,37067
+8bcae4e3-91d9,2C3CDZBT8JH260144,39900,5451,B6206,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,beaver county auto,2761 Constitution Boulevard,Beaver Falls,PA,15010
+db93cd85-d2f5,2C3CDZBTXMH502534,46250,44,AF3036,2021,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,crain hyundai of fayetteville,1919 W Foxglove Dr,Fayetteville,AR,72704
+ba374e44-049e,2C3CDZBT1GH120333,31995,40193,D420,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,webber automotive llc,10624 Old 52,Winston-salem,NC,27107
+963a013c-a2c4,2C3CDZBTXKH551181,35978,35576,MU284211A,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,kia country of charleston,2361 Savannah Highway,Charleston,SC,29414
+c6eb8f43-b99a,2B3CJ5DTXBH539530,17171,119014,BW217090,2011,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,chapman value on 22nd,4690 E. 22nd St. # 2,Tucson,AZ,85711
+aa777e5f-fac9,2C3CDZBT3LH139153,35923,6521,LH139153,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,don franklin chevrolet buick gmc,345 S. Highway 27,Somerset,KY,42501
+8436795b-0ec0,2C3CDZBT5JH146456,37990,30729,UC4350,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,main ave auto,1330 Main Ave,Moorhead,MN,56560
+37906d50-7f67,2B3CJ5DT1BH597042,21923,66691,4590,2011,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,s&r motors,22101 Mission Boulevard,Hayward,CA,94541
+8bdc4845-3219,2C3CDZBT6KH593685,32975,29028,B1081-1,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,stephens auto center,104 Stephens Drive,Danville,WV,25053
+df9beade-2c85,2C3CDZBT5FH910734,30454,25174,31040A,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,les stanford cadillac,21711 Michigan Avenue,Dearborn,MI,48124
+5d3701ba-845b,2C3CDZBT0LH124836,34997,19825,CJ14906,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,clay cooley chrysler jeep dodge ram,1261 E. Airport Fwy.,Irving,TX,75062
+87b6fd32-671a,2C3CDZBT5HH554434,33887,14393,PP1224A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,herrnstein kia,133 Marietta Road,Chillicothe,OH,45601
+5082b7e0-a654,2C3CDZBT5JH161510,33119,47513,C673956B,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,nissan of cookeville,501 Neal St.,Cookeville,TN,38501
+abcfbaf4-a2fe,2C3CDZBT2LH124739,31397,30572,2C3CDZBT2LH124739,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,avis car sales,1600 East Airport Freeway,Irving,TX,75062
+9a1a8077-e45c,2C3CDZBTXJH122055,36900,10223,B6189,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,beaver valley auto mall,750 Beaver Valley Mall Boulevard,Monaca,PA,15061
+13236500-bdae,2B3CJ5DT7BH613017,26500,64462,DC22373B,2011,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,dan deery motor company,3900 Alexandra Dr,Waterloo,IA,50702
+e0445cbc-20a6,2C3CDZBT5GH218409,33987,6301,BD00007A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,auto ranch group,2514 10th St,Baker City,OR,97814
+4c9d6af6-8fd6,2C3CDZBT3JH286845,42279,1333,56T7131,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,jeff wyler honda automall,5244 Dixie Hwy,Louisville,KY,40216
+4f5dd71f-4ade,2C3CDYBT8DH742143,,,R742143,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,coconut creek hyundai,4980 N. State Road 7,Coconut Creek,FL,33073
+8c5570a0-75ec,2C3CDZBT6MH546661,39495,6846,VT40508,2021,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,auction direct usa,6400 Blanding Boulevard,Jacksonville,FL,32244
+812e3463-a8ec,2C3CDZBT4JH111519,37995,16421,2093,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,whitaker sports and import cars,1081 Highway 36 E,Maplewood,MN,55109
+a3c2c296-cf26,2C3CDZAT0FH869513,23199,62900,FH869513,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,fontana motors direct,15836 Valley Blvd,Fontana,CA,92335
+de240fb0-de42,2C3CDZBT1JH112451,36990,11220,T4039A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,bettenhausen cdjr,8355w.159thstreet,Tinley Park,IL,60477
+8ef4eecc-00bf,2C3CDZBT0FH819564,27388,59893,SP4466,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,randy marion chevrolet buick cadillac,220 West Plaza Drive,Mooresville,NC,28117
+04d13f5f-63bc,2C3CDZBT1JH154697,34997,20500,M56384A,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,rick hendrick chevrolet norfolk,6252 E. Virginia Beach Blvd,Norfolk,VA,23502
+df6f8354-0b1e,2C3CDZBT2KH529093,31000,58134,529093,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,rountree-moore chevrolet,4316 90 W,Lake City,FL,32055
+a05c2f33-2eef,2C3CDZBT4KH578389,28977,31783,KH578389,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,alm kia south,4310 Jonesboro Rd,Union City,GA,30291
+4acd9638-f44f,2C3CDZBT3JH182971,32990,41848,H182971A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,alfa romeo of huntsville,6533 University Dr Nw,Huntsville,AL,35806
+bc7ae3f7-e706,2B3CJ5DT5BH541198,24598,52934,M13696P,2011,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,honda cars of rock hill,686 Galleria Blvd,Rock Hill,SC,29730
+0ac4c805-6ef2,2C3CDZBT5GH337335,,79384,D21979A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,bert ogden infiniti,4901 S Expy 281,Edinburg,TX,78539
+60d5f56f-6742,2C3CDZBT5LH206593,35400,8868,H517351A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,morgan auto group,3031 N Rocky Point Dr W 770,Tampa,FL,33607
+37eea4d1-bf89,2C3CDZBT3JH182971,32990,41848,H182971A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,fiat of huntsville,6533 University Dr Nw,Huntsville,AL,35806
+b935aa33-15cb,2C3CDZBT5HH539366,31700,38858,18210055B,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,genesis of western branch,3416 Western Branch Blvd,Chesapeake,VA,23321
+3adbf866-46ef,2C3CDYBTXEH181817,20995,86070,G9719C,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,tom ahl buick-gmc,2525 Allentown Rd,Lima,OH,45805
+5fb89409-966a,2C3CDZBT5HH592505,32995,32484,T0003A,2017,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,martin motors,709 South Davis Street,Nashville,GA,31639
+614ac380-b9f6,2C3CDZBT0LH122228,47940,3506,10812A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,jeff belzer's,21111 Cedar Ave.,Lakeville,MN,55044
+ee9c5658-0da2,2C3CDZBT4LH118425,,5237,11945E,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,sam jidd luxury,1505 S Mt Prospect Rd,Des Plaines,IL,60016
+7f7d8ea8-63b8,2C3CDZBT3LH146295,36000,24236,FK8808,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,don moore toyota,4216 Frederica St,Owensboro,KY,42301
+2c886e30-f7dc,2C3CDYBT3EH229769,16499,104900,229769,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,lithia auto stores,150 North Bartlett,Medford,OR,97501
+c2468e8e-eac3,2C3CDZBT9KH511870,33998,23997,20282772,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,carmax nashville,2501 Powell Avenue,Nashville,TN,37204
+5e61381b-a668,2C3CDZBT3JH199320,41495,33371,PB1976,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,frank leta auto group,3130 S Campbell Ave,Springfield,MO,65807
+ac7ddb8b-df80,2C3CDZBT7KH733694,41995,4249,9091A,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,conway chrysler dodge jeep inc,2385 Hwy 501 West,Conway,SC,29526
+9938b45b-b5bc,2C3CDYBT1EH186422,17999,123206,107089B,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,upper marlboro ford,5701 Crain Highway,Marlboro,MD,20772
+eec1c09e-f04f,2C3CDZBT8JH322660,38900,9652,SA42660,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hendrick toyota concord,7670 Bruton Smith Blvd,Concord,NC,28027
+c7baa842-e0bd,2C3CDYBT6CH206371,37995,1143,,2012,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,country truck and car lot ii,14224 Route 35,Richfield,PA,17086
+4cc5f72e-66c6,2C3CDZBT4KH629356,32900,21559,629356,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,mcadenville motors,5347 Wilkinson Blvd,Gastonia,NC,28056
+e3fb7248-5f88,2C3CDZBT1JH260258,37500,29879,P12968,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,pilson lincoln,2000 Lakeland Blvd,Mattoon,IL,61938
+506398b7-3b24,2C3CDZBT2LH118813,37672,381,LH118813,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,franklin nissan,705 Jamestown Street,Columbia,KY,42728
+4b158a89-3d0b,2C3CDZBTXJH138417,33499,29651,GH249506A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,alm marietta,1071 Cobb Pkwy Se,Marietta,GA,30060
+ae8580fc-c38d,2C3CDZAT8FH744680,27900,59175,44680,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,ramsey motor company,502 Hwy 62-65,Harrison,AR,72601
+e6e6690d-4aca,2C3CDYBT1EH274130,25477,30555,14065,2014,Dodge,Challenger,R/T Classic,Coupe,Car,RWD,Manual,Unleaded,5.7,V,miramar car center,9799 Miramar Rd,San Diego,CA,92126
+931aea15-f63c,2C3CDZBT8GH113962,30680,33098,GH113962,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,performance chrysler jeep dodge ram centerville,95 Loop Road,Dayton,OH,45459
+2e98e5a3-1cfc,2C3CDYBTXDH560167,25989,47116,7274,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,southpoint motors,10 7th St. Ne,Rochester,MN,55906
+0cc39726-5363,2C3CDZBT9HH665889,28743,51267,C14565B,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,tom ahl chrysler,617 King Avenue,Lima,OH,45805
+b987964e-f3c0,2C3CDZBT6KH629407,38580,18249,BMC40231,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,briggs supercenter,4810 Skyway Drive,Manhattan,KS,66503
+21949d9b-055e,2C3CDZBT4JH199973,33996,32435,15530,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hayes automotive group,2805 Us Highway 27 N,Sebring,FL,33870
+e48282f5-8695,2C3CDZBT2KH708718,33997,45775,D11614A,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,team one hyundai of gadsden,937 W. Grand Ave,Rainbow City,AL,35906
+05e249d8-43ed,2C3CDZBT4GH255953,30995,25130,C5953,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,cobleskill chevrolet buick gmc,2431 State Route 7,Cobleskill,NY,12043
+cc5bd5c2-fc79,2C3CDZBT2GH209862,35641,34472,H10319,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,sewell buick gmc of midland,3205 W Wall St,Midland,TX,79701
+714e4c83-af5a,2C3CDZBT5GH195763,29999,37719,HP11409,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,chevrolet cruze miami,16600 Nw 57th Ave.,Miami,FL,33014
+f7313af7-9bfb,2C3CDZBT2KH512259,33500,22711,437812A,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,safford chrysler dodge jeep ram & fiat of fredericksburg,5202 Jefferson Davis Hwy.,Fredericksburg,VA,22408
+4cdf9297-54e4,2C3CDZBT8HH594703,32995,35272,PHH594703,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,payne mission mitsubishi,2003 E Expressway 83,Mission,TX,78572
+1d424ed0-bf37,2C3CDZBTXJH332378,36923,23420,FHF210844B,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,west herr hyundai,5485 Transit Road,Williamsville,NY,14221
+4ef73381-e515,2C3CDZBT1GH245591,29495,31924,GH245591,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,mercedes-benz of fort lauderdale,2411 South Federal Highway,Fort Lauderdale,FL,33316
+f244de62-0b94,2C3CDZBT7GH217939,38499,12016,,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,vroom,2103 Citywest Boulevard Suite #1100,Houston,TX,77042
+44d13dad-a20e,2C3CDZBT0HH549125,29995,40794,CU7014N,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,sternberg ford,600 South Washington Street,Dale,IN,47523
+91aa839c-a612,2C3CDZBTXKH629376,29999,41881,37071,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,emmons autoplex,1423 Fm 528 Road,Webster,TX,77598
+092ca282-7e01,2C3CDZBT2GH214141,31189,48113,S-E521730A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,moss bros. auto group,27810 Eucalyptus Ave,Moreno Valley,CA,92555
+032a9a46-f1b3,2C3CDZBT1KH708435,35495,34157,59170X,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,cartiva of minot,3520 S. Broadway,Minot,ND,58701
+e629fa26-2e3a,2C3CDZBT9GH315211,29754,47772,5125911A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,jeff wyler cdjr of columbus,5955 Gender Rd.,Canal Winchester,OH,43110
+8cdc60c6-9548,2C3CDZBT2JH138685,37899,30507,P30909,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,cerritos nissan,18707 Studebaker Rd,Cerritos,CA,90703
+5b15b6d3-9803,2C3CDZBT3JH168875,39891,,D10074P,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,fred beans buick gmc,841 N Easton Rd,Doylestown,PA,18902
+3e0caeb1-9c98,2C3CDZBT1JH154697,34997,20500,M56384A,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hendrick honda of charleston,1539 Savannah Highway,Charleston,SC,29407
+993c02e0-c6c8,2C3CDYBT9EH313885,24991,54652,EH313885,2014,Dodge,Challenger,R/T Classic,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,sterling mccall acura sugar land,7201 Addison Ave,Sugar Land,TX,77479
+99f346f9-98ff,2C3CDZBT1JH314450,35000,23958,N11816,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,al piemonte nissan,1600 W. North Ave,Melrose Park,IL,60160
+1875b861-4b1d,2B3CJ5DT2BH604032,24477,34432,K210477A,2011,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,lynch chevrolet of kenosha,10901 75th Street,Kenosha,WI,53142
+15659a9f-3a4a,2C3CDYBT9EH164653,23500,83900,HWHM35454A,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,checkered flag,5225 Virginia Beach Blvd,Virginia Beach,VA,23462
+6665e5a7-063b,2C3CDZBT4JH288622,39999,8169,,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,vroom,2103 Citywest Boulevard Suite #1100,Houston,TX,77042
+b683557e-8678,2B3CJ5DT5AH130964,18999,67600,70-20-B,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,riverside auto sales & van rental,N5856 Wisconsin 54,Black River Falls,WI,54615
+7ef2365f-b860,2C3CDZBT6JH204316,,37298,A1622,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,cardinal ford,11400 New Halls Ferry Road,Florissant,MO,63033
+cdd8d643-eada,2C3CDZBT3HH624657,32897,27142,K1067,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,bell road mitsubishi,1901 E Bell Rd,Phoenix,AZ,85022
+87c09b32-4525,2C3CDZBT2GH202619,31496,16257,BU140,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,cronin buick gmc of bowling green,1099 N Main,Bowling Green,OH,43402
+60684fd1-5ca8,2C3CDZBT1KH739832,36093,10781,CPM739832,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,bayside chevrolet,109 Auto Drive,Prince Frederick,MD,20678
+6de390ea-63ab,2C3CDZBT5HH539366,31700,38858,18210055B,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hall chrysler dodge jeep ram chesapeake,3353 Western Branch Blvd,Chesapeake,VA,23321
+e8c4e8e6-b810,2B3CJ5DT6AH157400,,49025,P25762,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,ken wilson ford,769 Champion Drive,Canton,NC,28716
+fd92fea5-919f,2C3CDZBT8HH669254,29900,52836,M00705A,2017,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,mercedes-benz of northlake,10725 Northlake Auto Plaza Blvd,Charlotte,NC,28269
+fb9dc448-8382,2C3CDZBT1HH554737,32987,26042,4737P,2017,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,harper acura,9739 Kingston Pike,Knoxville,TN,37922
+7ad24deb-03d5,2C3CDZBT8FH914227,23999,74599,914227,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,car lux inc,843 S La Brea,Inglewood,CA,90301
+09a61d2d-851d,2C3CDZBT8LH250913,36995,7206,KF37156A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,cecil atkission motors,550 Benson Drive,Kerrville,TX,78028
+267345d8-37d2,2C3CDZBT0GH256937,28998,30355,20177706,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,carmax omaha,17606 Burt Street,Omaha,NE,68118
+60899e66-9a16,2C3CDZBT5JH287530,32584,28971,VF1T715730A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,feldman 1800preowned super center,8700 Dixie Highway,Clarkston,MI,48348
+e36e9ff0-140c,2C3CDZBT9HH665889,28743,51267,C14565B,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,tom ahl family of dealerships,2525 Allentown Road,Lima,OH,45805
+b9b1806d-07a4,2C3CDZBT7HH659217,30578,36870,P410664,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,camelback ford,1330 E. Camelback Road,Phoenix,AZ,85014
+283052cf-ac3b,2C3CDZBT0HH578396,32995,42916,D22060A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,bert ogden mission kia,2307 E. Expressway 83,Mission,TX,78572
+c17e1912-8875,2C3CDZBT8JH178222,35595,19027,AM22826-1,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,"glockner chrysler, dodge, jeep, ram of ashland",1041 Greenup Avenue,Ashland,KY,41101
+342dadc3-318e,2C3CDYBT6DH736700,23500,38000,,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,aloha auto,256 Papalaua St A,Lahaina,HI,96761
+bdd0d840-d1e1,2C3CDZBT7KH513469,30128,42165,U2850,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,ferman chrysler dodge jeep ram of wesley chapel,24314 State Road 54,Lutz,FL,33559
+54d8ca3f-9cc4,2C3CDZBT0LH142690,35998,29404,P3953,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,hendrick volvo cars of charleston,1464 Savannah Highway,Charleston,SC,29407
+761a06c5-5b87,2C3CDZBT9FH895333,28914,67255,U21911510,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,swope mitsubishi of radcliff,253 S Dixie Blvd,Radcliff,KY,40160
+ee09b4f2-bb99,2B3LJ54T59H594655,,24857,C1402U,2009,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,"apple chrysler, dodge, jeep, ram of hanover",200 Eisenhower Dr.,Hanover,PA,17331
+e497be96-9055,2C3CDYBT3DH541766,22365,71580,69700A,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,bobby rahal lexus,6715 Carlisle Pike,Mechanicsburg,PA,17050
+5db37bdb-f660,2C3CDZATXFH764929,25689,59887,FH764929,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,performance autoplex,2215 S 500 W,Bountiful,UT,84010
+213edc6a-2bfd,2C3CDZBT0KH737635,33998,7676,19841461,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,carmax hillside (eisenhower expy),101 North Wolf Road,Hillside,IL,60162
+a7287e8e-b751,2C3CDZBT3LH124684,34995,31332,30381W,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,lochmandy motors service department,920 North Nappanee Street,Elkhart,IN,46514
+a2de1247-e62d,2C3CDZBT3JH280253,36991,16315,6P837,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,kia of carson,22020 Recreation Road,Carson,CA,90745
+505de566-359b,2C3CDZBT2KH531359,31999,74271,CGPC41,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hollywood kia,6011 Pembroke Road,Hollywood,FL,33023
+bfa4f15c-efc2,2C3CDZBT6KH552148,27707,21264,G261RMDK,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,east coast auto source,4180 Rocky Ford Road,Bedford,VA,24523
+4be77a5a-72f4,2C3CDYBT0EH186394,20900,80678,G2100111,2014,Dodge,Challenger,R/T Classic,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,priority nissan williamsburg,6390 Richmond Rd,Williamsburg,VA,23188
+ea422abd-48ce,2C3CDZBT6KH680325,34995,25787,N2148C,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,acra automotive group,1407 North Lincoln,Greensburg,IN,47240
+1fdcfccd-dc53,2C3CDZBT4HH604420,35995,37150,295760A,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,lee's summit chrysler jeep dodge,1051 Se Oldham Pkwy,Lee'S Summit,MO,64081
+5b84c7b5-5da4,2C3CDZBT4JH175382,39777,30637,P8223,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,bleecker chevrolet,1200 E Cumberland St,Dunn,NC,28334
+7fadc638-6724,2C3CDZBT0LH142690,35998,29404,P3953,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,mercedes-benz of durham,110 Kentington Dr.,Durham,NC,27713
+0922e8ee-c49b,2C3CDYBT8EH196767,23994,59874,56955,2014,Dodge,Challenger,R/T Classic,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,wholesale inc.,8037 Eastgate Blvd,Mount Juliet,TN,37122
+d6a765bf-ef9b,2C3CDYBT8DH700314,18383,101835,3292,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,consign my vehicle,4460 Tradition Trail # 201,Plano,TX,75093
+3d8953ca-c241,2C3CDZBTXLH203883,50000,197,C21009A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,chapman choice,4646 E. 22nd St.,Tempe,AZ,85283
+88a7feef-4ec5,2C3CDZAT0FH711270,29536,33109,711270,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,auto kings,344 Northeast 3Rd Street,Bend,OR,97701
+6bf8db01-0528,2C3CDZBT3KH629476,,29742,204860,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,ken fowler mazda,1265 Airport Park Boulevard,Ukiah,CA,95482
+04aa7c7d-0574,2C3CDZBT7HH514520,32500,1247,19A08-35,2017,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,choice motor group,16000 North 80th Street C,Scottsdale,AZ,85260
+b786a86c-1408,2C3CDZBT6JH246713,,12530,,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,ss auto pro's,703 West Allegan Street,Otsego,MI,49078
+792bca60-7cba,2B3CJ5DT1AH157949,14999,121372,L82100A,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,athens dodge chrysler jeep ram,4145 Atlanta Hwy,Athens,GA,30606
+99d9e22e-6ee9,2C3CDZBT8JH322660,38900,9652,SA42660,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,bmw of murrieta,41430 Auto Mall Parkway,Murrieta,CA,92562
+54f88ce8-650a,2C3CDZBT6JH123607,31597,39317,EL1156A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hertrich chevrolet of dover,1450 S Dupont Hwy,Dover,DE,19901
+2763b93f-7bfc,2C3CDZAT7FH715025,27000,64195,DM53707B,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,hendrick mini,7036 E Independence Blvd,Charlotte,NC,28227
+82eae88e-056b,2B3CJ5DT4AH318374,,97266,13164,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,premium finance,11626 Beach Blvd,Stanton,CA,90680
+43b21b67-036f,2C3CDZBT8HH669254,29900,52836,M00705A,2017,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,rick hendrick chevrolet naples,5665 N. Airport Pulling Road,Naples,FL,34109
+ebbc6a9a-c1fd,2B3CJ5DT8AH319544,,87359,A24329B,2010,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,melloy nissan,7707 Lomas Blvd Ne,Albuquerque,NM,87110
+037023b9-227c,2C3CDZBT0JH143156,32996,30545,TJH143156,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,capitol hyundai montgomery,2820 Eastern Boulevard,Montgomery,AL,36116
+69ec038c-95dd,2C3CDZBT5KH744127,36588,9756,11250,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,saitta trudeau chry-jeep-dodge,1541 E Wahkiakum Ave,Pahrump,NV,89048
+24e0971f-965a,2C3CDYBT5EH225528,23765,57868,XR5819A,2014,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,hendrick toyota concord,7670 Bruton Smith Blvd,Concord,NC,28027
+08e9e5ef-9ac9,2C3CDZBT7GH202213,,49079,H247130A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,haley south inc,10724 Jefferson Davis Highway,Chester,VA,23831
+cc8aaf82-e5d2,2C3CDZATXFH712166,,88314,TY210959B,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,shelor motor mile,2260 Roanoke Street,Christiansburg,VA,24073
+27adc9bd-19b4,2C3CDZBT1KH612482,40990,23432,PC7254,2019,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,bay chrysler dodge jeep ram,636 W 15th St,Panama City,FL,32401
+20211e61-aae0,2C3CDZBT3JH211675,32990,22179,25P1875,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,jaguar greensboro,1205 Bridford Pkwy,Greensboro,NC,27407
+c9310156-d686,2C3CDZBT2GH221932,30154,20822,GH221932,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,mega car deal,5377 41 South,Terre Haute,IN,47802
+a39f6aee-2377,2C3CDZBT2JH204233,29717,65502,I7222A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,all american chrysler dodge jeep ram,8716 East Highway 84,Slaton,TX,79364
+fb0f4416-42e9,2C3CDZAT6FH717817,27863,70166,27T6399,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,jeff wyler eastgate chevrolet,1117 State Route 32,Batavia,OH,45103
+be26a513-214e,2C3CDZBTXHH594508,31988,44040,HH594508,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,alm newnan,40 International Park,Newnan,GA,30265
+580fbd28-2779,2C3CDZBT4FH717233,29350,51737,FH717233,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,joe machens volkswagen of columbia,1200 Vandiver Dr.,Columbia,MO,65202
+b35a8d1a-182c,2C3CDYBT9DH535311,26999,20266,11664Z,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,holiday chrysler dodge jeep,815 S Rolling Meadows Dr,Fond Du Lac,WI,54937
+3b30282d-0fca,2C3CDZBT9JH327303,33808,23236,TU3214,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,coughlin marysville chrysler jeep dodge ram,15777 Watkins Rd,Marysville,OH,43040
+5573aa76-a613,2C3CDZBT1JH146549,41495,7254,VI18335,2018,Dodge,Challenger,T/A,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,dorschel automotive group,3817 West Henrietta Road,Rochester,NY,14623
+ab3af318-a6f3,2C3CDZBT3LH118514,32697,23433,2C3CDZBT3LH118514,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,avis car sales,1600 East Airport Freeway,Irving,TX,75062
+ef3db77b-d963,2C3CDZBT6LH173099,38888,8486,CVD21059A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,tacoma dodge chrysler jeep ram,4101 S Tacoma Way,Tacoma,WA,98409
+ff291c2c-e1fa,2C3CDZBT2JH199583,31500,30058,RU821,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,tasca chrysler dodge jeep ram,9 Post Rd,Westerly,RI,02891
+3be17a1f-8b93,2C3CDZBTXJH122055,36900,10223,B6189,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,shenango auto mall,2515 Ellwood Road,Castle,PA,16101
+3b8b25a0-2e5b,2C3CDZBT9KH629417,33992,25447,KH629417,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,sterling mccall ford,6445 Southwest Freeway,Houston,TX,77074
+a448d39f-a949,2C3CDZBT4HH640656,33082,36543,P2904,2017,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,courtesy chrysler dodge jeep ram,8455 Mall Pkwy,Lithonia,GA,30038
+0e0cc9d1-6924,2C3CDZBT0GH236817,,28475,C42968A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,southside used,807 Southeast Military Drive,San Antonio,TX,78214
+c8c0b6cc-91a4,2C3CDZBT0FH911273,23888,119474,12310,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,shottenkirk honda of davis,4343 Chiles Rd,Davis,CA,95618
+fde46543-91d6,2C3CDZBTXJH219515,36991,18813,M31239A,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Premium Unleaded,5.7,V,hendrick chevrolet shawnee mission,8300 Shawnee Mission Parkway,Merriam,KS,66202
+645ddbec-a217,2C3CDZBT0LH122228,47940,3506,10812A,2020,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,jeff belzer's chevrolet,21111 Cedar Avenue,Lakeville,MN,55044
+2bbc3df3-38ab,2C3CDZAT7FH710651,,100565,FH710651,2015,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Unleaded,5.7,V,lrg motors,5505 Moreno Street # 105,Montclair,CA,91763
+cf16c493-3b19,2B3LJ54T09H609000,17500,123000,9H609000,2009,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,franklin nissan,705 Jamestown Street,Columbia,KY,42728
+27cda83b-b6e8,2C3CDZBT8GH177838,31000,24405,W5641A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,holiday chevrolet buick gmc,321 N Rolling Meadows Dr,Fond Du Lac,WI,54937
+3b6f983a-29b3,2B3LJ54T99H546477,15477,134405,R0466B,2009,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,jimmy britt chrysler dodge jeep ram,2054 441,Dublin,GA,31021
+6186d724-9b1a,2C3CDZBT9GH315211,29754,47772,5125911A,2016,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,jeff wyler toyota of springfield,2237 West First Street,Springfield,OH,45504
+da438092-9701,2C3CDZBT8KH591212,,4070,P4689,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,warrensburg ford,330 E. Young,Warrensburg,MO,64093
+1d14e91a-5fd6,2C3CDZBT6JH270381,25499,102185,D210328,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,automotive connection,5210 Dixie Hwy,Fairfield,OH,45014
+20430b3f-8f87,2C3CDYBT5DH500491,23660,40393,DH500491,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,autonation toyota libertyville,1180 South Milwaukee Ave.,Libertyville,IL,60048
+6a7c65e9-73d3,2C3CDZBT1KH552218,33900,8613,C09539C,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,piedmont honda,4011 Clemson Blvd,Anderson,SC,29621
+63ea5d03-7779,2C3CDZBT1JH255206,38990,16411,J0006,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,jts chrysler dodge jeep ram fiat,4838 Sunset Blvd,Lexington,SC,29072
+15aa3d84-770d,2C3CDZBT4JH228422,33998,7397,JH228422,2018,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,autonation chevrolet doral,1201 Nw 89th Court,Miami,FL,33172
+7ac260a0-2dc0,2C3CDZBT0KH525253,30787,53054,210577A,2019,Dodge,Challenger,R/T,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,hudson auto group,2210 Gallatin Pike N,Madison,TN,37115
+7a98eaca-b37e,2C3CDZBT3JH202667,40250,24739,CP3218,2018,Dodge,Challenger,R/T Plus,Coupe,Car,RWD,Automatic,Premium Unleaded,5.7,V,jones toyota,1508 Belair Road,Bel Air,MD,21014
+0810262f-4765,2C3CDYBT6DH723722,,127212,6092,2013,Dodge,Challenger,R/T,Coupe,Car,RWD,Manual,Unleaded,5.7,V,autodeals,27467 Mission Blvd,Hayward,CA,94544
